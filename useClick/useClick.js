@@ -1,4 +1,4 @@
-const useClick = (onClickFn) => {
+export const useClick = (onClickFn) => {
   if (typeof onClickFn !== "function") return;
   const element = useRef();
   useEffect(() => {
