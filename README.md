@@ -6,3 +6,7 @@ https://nomadcoders.co/react-hooks-introduction/lobby
 - useTabs
 - useTitle
 - useClick
+- useConfirm
+- usePreventLeave
+- useBeforePageLeave
+- useFadeIn
