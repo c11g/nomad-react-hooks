@@ -12,3 +12,6 @@ https://nomadcoders.co/react-hooks-introduction/lobby
 - useFadeIn
 - useNetwork
 - useScroll
+- useFullscreen
+- useNotification
+- useAxios
