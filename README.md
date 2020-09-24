@@ -10,3 +10,4 @@ https://nomadcoders.co/react-hooks-introduction/lobby
 - usePreventLeave
 - useBeforePageLeave
 - useFadeIn
+- useNetwork
